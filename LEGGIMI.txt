@@ -1,0 +1,8 @@
+Lessico Pittorico Familiare - tour virtuale 360
+
+Per vederlo: apri index.html con un browser (anche con doppio clic).
+Per pubblicarlo online: carica TUTTA questa cartella (index.html + media/)
+su un hosting statico, ad esempio Netlify (trascina la cartella su app.netlify.com/drop),
+GitHub Pages o lo spazio web del sito. Non serve nessun server particolare.
+
+Questa cartella viene rigenerata da ESPORTA_TOUR.bat: non modificarla a mano.
