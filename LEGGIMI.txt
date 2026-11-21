@@ -1,6 +1,8 @@
 Lessico Pittorico Familiare - tour virtuale 360
 
 Per vederlo: apri index.html con un browser (anche con doppio clic).
+La pagina contiene <meta name="robots" content="noindex">: non compare sui motori di ricerca.
+Non aggiungere un robots.txt che blocca il sito: Google non leggerebbe più questa istruzione.
 Per pubblicarlo online: carica TUTTA questa cartella (index.html + media/)
 su un hosting statico, ad esempio Netlify (trascina la cartella su app.netlify.com/drop),
 GitHub Pages o lo spazio web del sito. Non serve nessun server particolare.
